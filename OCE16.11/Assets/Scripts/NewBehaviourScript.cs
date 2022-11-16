@@ -10,6 +10,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         Console.Write("aa");
+        // test test test
     }
 
     // Update is called once per frame
